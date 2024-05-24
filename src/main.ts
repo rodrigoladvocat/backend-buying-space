@@ -8,7 +8,7 @@ async function bootstrap() {
   const config = new DocumentBuilder()
   .setTitle('Buying Space')
   .setDescription('Buying Space API description')
-  .setVersion('6.9') // change it later
+  .setVersion('1.0') // change it later
   .addTag('Cart')
   .addTag('Product')
   .addTag('User')
